@@ -1,0 +1,7 @@
+{
+  "name": "pizzadelivery-customer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
